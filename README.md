@@ -9,5 +9,5 @@ This is a simple one-page responsive website. this is made for learning purposes
 3. JavaScript
 4. No font plugin
 
-- Live Demo :
-- source code :
+- Live Demo : one-page-responsive-website.netlify.app
+- source code : https://github.com/hmzsumon/one-page-responsive-website
